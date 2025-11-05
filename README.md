@@ -6,19 +6,6 @@ A simple, interactive Rock Paper Scissors game built with HTML, CSS, and JavaScr
 
 The game features a clean, user-friendly interface with visual hand gestures for Rock (fist), Paper (open hand), and Scissors (peace sign). The score is displayed for both the user and computer, with real-time feedback on game outcomes.
 
-## 📁 Project Structure
-
-rock-paper-scissors/
-│
-├── images/
-│ ├── paper.png
-│ ├── rock.png
-│ └── scissor.png
-├── index.html
-├── script.js
-└── style.css
-
-
 ## 🚀 Features
 
 - **Interactive Gameplay**: Click on rock, paper, or scissors to make your choice
